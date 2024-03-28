@@ -5,4 +5,5 @@
 
 88888
 11111
-mainMergeConflict
+MergeConflictmain
+MergeConflict
